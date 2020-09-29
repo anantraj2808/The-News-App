@@ -4,13 +4,20 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is an API based flutter application (NewsAPI) which shows all the current affairs.
 
-A few resources to get you started if this is your first Flutter project:
+Some of the features of the app are:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Categories
+The landing page of the app is divided into categories based on the news fetched.
+They are:
+=> Business
+=> Entertainment
+=> Health
+=> Science
+=> Sports
+=> Technology
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Articles
+
+Articles are presented in a Web-View on the original platforms, where they are published.
